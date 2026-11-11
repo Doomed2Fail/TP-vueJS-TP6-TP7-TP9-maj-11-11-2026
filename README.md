@@ -5,7 +5,7 @@
 Application Vue 3 et Vite : ajout d'étudiants, recherche, tri, navigation vers une fiche et modification. Les données sont en mémoire et réinitialisées au rechargement.
 
 ```sh
-cd "TP-ERRAFIY&SAADEDDINE/TP-6-Mini-annuaire/starter"
+cd "TP-ERRAFIY&SAADEDDINE/TP6"
 npm ci
 npm run dev
 ```
@@ -33,5 +33,6 @@ npm run dev
 ```
 
 Pour chaque projet, ouvrir l'adresse affichée par Vite. Sous PowerShell, si `npm` est bloqué, utiliser `npm.cmd` à la place. Pour compiler : `npm run build`.
+
 
 
