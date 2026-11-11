@@ -15,7 +15,7 @@ npm run dev
 Liste de pays, recherche et page de détail à partir de l'API [countries.dev](https://countries.dev/docs). L'ancienne API de l'énoncé n'est plus disponible sans clé. L'API utilisée fournit le nom local plutôt que le nom officiel.
 
 ```sh
-cd TP7
+cd "TP-ERRAFIY&SAADEDDINE/TP7"
 npm ci
 npm run dev
 ```
@@ -24,12 +24,14 @@ npm run dev
 
 Recherche de ville, météo actuelle et prévisions ; géolocalisation et historique local en bonus.
 
-Copier `TP9/.env.example` vers `TP9/.env` et y indiquer sa clé OpenWeatherMap avant de lancer le projet. Ne jamais publier `.env`. Une clé `VITE_` est accessible au navigateur et ne constitue pas un secret côté client. Après modification de `.env`, redémarrer le serveur.
+Copier `TP-ERRAFIY&SAADEDDINE/TP9/.env.example` vers `TP-ERRAFIY&SAADEDDINE/TP9/.env` et y indiquer sa clé OpenWeatherMap avant de lancer le projet. Ne jamais publier `.env`. Une clé `VITE_` est accessible au navigateur et ne constitue pas un secret côté client. Après modification de `.env`, redémarrer le serveur.
 
 ```sh
-cd TP9
+cd "TP-ERRAFIY&SAADEDDINE/TP9"
 npm ci
 npm run dev
 ```
 
 Pour chaque projet, ouvrir l'adresse affichée par Vite. Sous PowerShell, si `npm` est bloqué, utiliser `npm.cmd` à la place. Pour compiler : `npm run build`.
+
+
